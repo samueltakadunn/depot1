@@ -8,3 +8,7 @@ one:
 two:
   product: ruby
   cart: one
+
+three:
+  product: ruby
+  cart: one
