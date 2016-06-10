@@ -18,7 +18,7 @@ en:
 
   layouts:
     application:
-      title:       "Pragmatic Bookshelf"
+      title:       "Quality Quidditch Supplies"
       home:        "Home"
       questions:   "Questions"
       news:        "News"
@@ -32,7 +32,7 @@ en:
 
   store:
     index:
-      title_html:  "Your Pragmatic Catalog"
+      title_html:  "Quality Quidditch Supplies"
       add_html:    "Add to Cart"
 
   orders:
